@@ -15,7 +15,7 @@ In this repository, we build ros2 wrapper for [trt_pose_hand](https://github.com
     - [Install Instructions](https://index.ros.org/doc/ros2/Installation/Eloquent/Linux-Development-Setup/) <br/>
 - trt_pose
     - [Dependencies for trt_pose](https://github.com/NVIDIA-AI-IOT/trt_pose#step-1---install-dependencies) <br/>
-    - [Install trt_pose] (https://github.com/NVIDIA-AI-IOT/trt_pose#step-2---install-trt_pose) <br/>
+    - [Install trt_pose](https://github.com/NVIDIA-AI-IOT/trt_pose#step-2---install-trt_pose) <br/>
 - Gesture Classification
     - scikit-learn ```$ pip3 install -U scikit-learn```
 
